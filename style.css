@@ -66,3 +66,20 @@
     color: #0f172a;
     transform: translateY(-3px);
 }
+/* WhatsApp Contact Button */
+.whatsapp-button {
+    display: inline-block;
+    padding: 13px 25px;
+    background: #25D366;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 20px;
+    transition: 0.3s ease;
+}
+
+.whatsapp-button:hover {
+    background: #128C7E;
+    transform: translateY(-3px);
+}
