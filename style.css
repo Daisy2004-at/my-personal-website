@@ -1,4 +1,5 @@
 .contact-card {
+ {
     background: #17243a;
     border: 1px solid #263c5c;
     border-radius: 18px;
@@ -21,3 +22,18 @@
 .contact-card .btn {
     margin-top: 20px;
 }
+.profile-placeholder {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #38bdf8, #2563eb);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 65px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 25px;
+    border: 4px solid white;
+    box-shadow: 0 0 25px rgba(56, 189, 248, 0.4);
+}S
